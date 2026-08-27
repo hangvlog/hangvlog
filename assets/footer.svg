@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80">
+  <rect x="0" y="0" width="900" height="80" rx="16" ry="16" fill="#0D1117"/>
+  <path d="M0,20 C150,50 300,5 450,35 C600,65 750,15 900,40 L900,80 L0,80 Z" fill="#58A6FF" opacity="0.06"/>
+  <path d="M0,45 C225,20 450,60 675,30 C787,18 855,38 900,32 L900,80 L0,80 Z" fill="#58A6FF" opacity="0.1"/>
+  <text x="450" y="55" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="13" fill="#8B949E">⭐ Star my repos if you find them useful · Made with ❤️</text>
+</svg>

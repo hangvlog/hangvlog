@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="150" viewBox="0 0 280 150">
+  <rect x="1" y="1" width="278" height="148" rx="14" ry="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+  <text x="140" y="35" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="15" font-weight="600" fill="#C9D1D9">🔗 shared-clipboard</text>
+  <text x="140" y="60" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="12" fill="#8B949E">跨平台共享剪贴板</text>
+  <text x="140" y="78" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="12" fill="#8B949E">支持多端同步文本和图片</text>
+  <rect x="75" y="95" width="52" height="22" rx="6" ry="6" fill="#0175C222" stroke="#0175C2" stroke-width="0.8"/>
+  <text x="101" y="110" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" fill="#0175C2">Dart</text>
+  <rect x="137" y="95" width="68" height="22" rx="6" ry="6" fill="#02569B22" stroke="#02569B" stroke-width="0.8"/>
+  <text x="171" y="110" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="10" fill="#58A6FF">Flutter</text>
+  <text x="140" y="136" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="11" fill="#58A6FF">📂 查看仓库 →</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440">
+  <!-- 外框圆角卡片 -->
+  <rect x="1" y="1" width="558" height="438" rx="16" ry="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- 标题栏 -->
+  <text x="30" y="38" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="16" font-weight="600" fill="#58A6FF">🧑‍💻 关于我  /  About Me</text>
+  <line x1="30" y1="52" x2="530" y2="52" stroke="#21262D" stroke-width="1"/>
+
+  <!-- 基本信息区 -->
+  <text font-family="'Fira Code', monospace" font-size="12">
+    <tspan x="30" y="80" fill="#7EE787">name</tspan><tspan fill="#6E7681">: </tspan><tspan fill="#C9D1D9">hangvlog</tspan>
+    <tspan x="30" y="102" fill="#7EE787">role</tspan><tspan fill="#6E7681">: </tspan><tspan fill="#C9D1D9">全栈工程师 · AI 应用开发者</tspan>
+    <tspan x="30" y="124" fill="#7EE787">focus</tspan><tspan fill="#6E7681">: </tspan><tspan fill="#C9D1D9">🤖 AI Agent · 跨平台应用</tspan>
+    <tspan x="30" y="146" fill="#7EE787">stack</tspan><tspan fill="#6E7681">: </tspan><tspan fill="#C9D1D9">🧰 TypeScript · Rust · Python</tspan>
+    <tspan x="30" y="168" fill="#7EE787">coding_since</tspan><tspan fill="#6E7681">: </tspan><tspan fill="#C9D1D9">💻 2021</tspan>
+  </text>
+
+  <!-- 分隔线 -->
+  <line x1="30" y1="185" x2="530" y2="185" stroke="#21262D" stroke-width="1"/>
+
+  <!-- 我正在做什么 -->
+  <text x="30" y="210" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="13" font-weight="600" fill="#58A6FF">🔭 我正在做什么</text>
+  <text font-family="'Fira Code', monospace" font-size="12" fill="#C9D1D9">
+    <tspan x="40" y="234" fill="#6E7681">→ </tspan><tspan>构建 AI Agent 桌面应用 (Tauri 2.0 + React)</tspan>
+    <tspan x="40" y="256" fill="#6E7681">→ </tspan><tspan>开发跨平台共享剪贴板 (Flutter + Dart)</tspan>
+    <tspan x="40" y="278" fill="#6E7681">→ </tspan><tspan>探索 MCP 协议 &amp; LLM 应用生态</tspan>
+  </text>
+
+  <!-- 分隔线 -->
+  <line x1="30" y1="295" x2="530" y2="295" stroke="#21262D" stroke-width="1"/>
+
+  <!-- 技术偏好 -->
+  <text x="30" y="320" font-family="'Segoe UI', 'Noto Sans SC', sans-serif" font-size="13" font-weight="600" fill="#58A6FF">⚡ 技术偏好</text>
+  <text font-family="'Fira Code', monospace" font-size="12" fill="#C9D1D9">
+    <tspan x="40" y="344" fill="#6E7681">→ </tspan><tspan fill="#FFA657">前端</tspan><tspan fill="#6E7681">: </tspan><tspan>React / Vue / TypeScript 重度用户</tspan>
+    <tspan x="40" y="366" fill="#6E7681">→ </tspan><tspan fill="#FFA657">桌面</tspan><tspan fill="#6E7681">: </tspan><tspan>Tauri &gt; Electron，Rust 性能控</tspan>
+    <tspan x="40" y="388" fill="#6E7681">→ </tspan><tspan fill="#FFA657">后端</tspan><tspan fill="#6E7681">: </tspan><tspan>FastAPI 快速原型，Spring Boot 生产级</tspan>
+    <tspan x="40" y="410" fill="#6E7681">→ </tspan><tspan fill="#FFA657">理念</tspan><tspan fill="#6E7681">: </tspan><tspan>能自动化就不手动，能跨平台就不做单端</tspan>
+  </text>
+</svg>
